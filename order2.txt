@@ -1,0 +1,7 @@
+Order number:2
+Client with ID: 0
+ Products: 
+1. Fresh Corn Tortillas  price: 79
+2. Spicy Pickled Shallots  price: 78
+
+ Total price:157

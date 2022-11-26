@@ -1,0 +1,8 @@
+Order number:1
+Client with ID: 0
+ Products: 
+1. Cilantro-Tomato Salsa  price: 32
+2. Cauliflower-Leek Purée  price: 13
+3. Fresh Corn Tortillas  price: 79
+
+ Total price:124
